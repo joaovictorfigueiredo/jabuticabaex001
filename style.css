@@ -1,0 +1,88 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+    
+}
+
+.container1{
+    background: #d4b5a4;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 32px 10px 81px 19px;
+    color: #fff;
+}
+
+article{
+    padding: 10px;
+    background: #a359a0;
+    margin: 4px;
+    color: #fff;
+    border-radius: 10px;
+}
+.box p{
+    padding: 20px;
+    margin: 10px;
+    text-align: justify;
+    background: #000000bf;
+    border-radius: 25px;
+    color: #fff;
+}
+
+#container2{
+    background: url(imagens/jab.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    padding: 10px;
+    margin: auto;
+    display: grid;
+    color: #fff;
+    background: #a359a0;
+}
+label{
+    margin-top: 3px;
+}
+
+#bb{
+    margin-top: 10px;
+    width: 60px;
+    background: #FF9800;
+    /* justify-content: flex-end; */
+    display: flex;
+}
+.artc2{
+    padding: 10px;
+    background: #d4b5a4;
+    margin: 4px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.artc2 p {
+    padding: 10px;
+    font-size: 20px;
+}
+
+article p{
+    padding: 10px;
+    font-size: 20px;
+}
+
+body img{
+    width: 100%;
+}
+
+header h1{
+    height: 15px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.imgprinc img{
+    width: 100%;
+}
